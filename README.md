@@ -33,6 +33,7 @@ same operations as above on the frame. But we did not write all the frames into 
 pgm file, instead we used the video writer object to store all the frames. And at the 
 end we got the output video as an output stored at specified location.
 
-Run code: make
+Run code:
+           make
 
           ./< name >
