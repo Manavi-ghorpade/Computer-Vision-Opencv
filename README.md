@@ -1,4 +1,4 @@
-# Computer-Vision-Opencv-Cross-hair-on-laser-spot-in-video
+# Computer-Vision-Opencv
 
 e have used the Dark Room Laser Spot video we converted to a 
 series of graymap frames (using ONE band from RGB). we have applied the 
